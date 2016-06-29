@@ -3,7 +3,7 @@
   <groupId>com.fireduptech.build.maven.java</groupId>
   <artifactId>com.fireduptech.build.maven.java</artifactId>
   <packaging>jar</packaging>
-  <version>1.3</version>
+  <version>1.4-SNAPSHOT</version>
   <name>com.fireduptech.build.maven.java</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -18,7 +18,7 @@
     <connection>scm:git:git@github.com:mccarthyr/Maven_Java_Hello_World_Example.git</connection>
     <url>scm:git:git@github.com:mccarthyr/Maven_Java_Hello_World_Example.git</url>
     <developerConnection>scm:git:git@github.com:mccarthyr/Maven_Java_Hello_World_Example.git</developerConnection>
-    <tag>v1.1.2</tag>
+    <tag>HEAD</tag>
   </scm>
   <build>
     <plugins>
